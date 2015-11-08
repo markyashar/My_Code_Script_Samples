@@ -1,0 +1,7 @@
+Beam-width Errors:
+rho = 0.009 , alpha =  0.01 , rho/alpha =  0.9
+Na = 1000 , sigma =  0.1 , num mc =  100
+Mean intensity:  3.93489642428
+Sigma intensity:  0.0656971112256
+DR_MC =  15.2213694232
+DR_MEMO=  3.90404649404 , DR_ratio (memo/MC) =  0.256484576749
